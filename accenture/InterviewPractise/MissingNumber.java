@@ -12,6 +12,7 @@ public class MissingNumber {
 		int missing=sum-total;
 		System.out.println(missing); 
 				System.out.println("hello world"); 
+				System.out.println("hello world"); 
 
 
 	}
